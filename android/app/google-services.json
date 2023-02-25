@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059038117375",
+    "project_id": "social-ee649",
+    "storage_bucket": "social-ee649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059038117375:android:071dd67a0db9a27a2c3bca",
+        "android_client_info": {
+          "package_name": "com.rahman.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059038117375-q5fakhtjh68vkb62cekqmf13qp9vlfgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJifyvx17k757eI4gY2UhZv18P8ZZNFE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059038117375-q5fakhtjh68vkb62cekqmf13qp9vlfgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
